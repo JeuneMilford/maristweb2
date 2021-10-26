@@ -1,11 +1,8 @@
+body {
+  background-image: url("img_tree.gif"), url("https://media.istockphoto.com/videos/4k-resolution-futuristic-abstract-backgroundpolygon-and-line-connect-video-id1199149544?s=640x640");
+  background-size:contain;
+  height: 100vh;
+  
 
-    
-   
-    body{
-      background-image: url("http://7-themes.com/data_images/out/10/6800399-light-blue-background.jpg");
-      background-size: cover;
-
-
-    }
-
-   
+}
+  
